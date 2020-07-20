@@ -12,5 +12,6 @@ while row_index < src.count do
     lowest_value = [row_index][element_index]
   end
   element_index +=1
-  new_array_outer << lowest_value 
+  new_array_outer << lowest_value
+  
 end
