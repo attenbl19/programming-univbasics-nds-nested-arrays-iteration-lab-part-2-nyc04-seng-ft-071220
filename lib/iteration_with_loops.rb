@@ -8,5 +8,6 @@ while row_index < src.count do
   element_index = 0
   new_array_inner = []
   lowest_value = 100
-  if src[]
+  if src[row_index][element_index] < lowest_value
+    p 
 end
