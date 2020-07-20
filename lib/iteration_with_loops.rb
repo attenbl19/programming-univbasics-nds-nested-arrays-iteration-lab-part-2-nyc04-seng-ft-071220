@@ -15,4 +15,4 @@ row_index = 0
    outer_results << lowest_value
    row_index +=1
   end
-  new_array_outer
+  outer_results
