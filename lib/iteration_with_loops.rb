@@ -9,5 +9,7 @@ while row_index < src.count do
   new_array_inner = []
   lowest_value = 100
   if src[row_index][element_index] < lowest_value
-    
+    lowest_value = [row_index][element_index]
+  end
+  
 end
