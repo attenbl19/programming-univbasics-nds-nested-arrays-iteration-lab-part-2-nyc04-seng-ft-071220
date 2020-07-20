@@ -17,4 +17,3 @@ row_index = 0
    row_index +=1
   end
   new_array_outer
-end
