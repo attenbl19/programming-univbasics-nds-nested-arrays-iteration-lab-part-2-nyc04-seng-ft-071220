@@ -7,7 +7,7 @@ row_index = 0
     element_index = 0
     inner_results = []
     lowest_value = 100
-    
+    while element_index < src
       if src[row_index][element_index] < lowest_value
         lowest_value = [row_index][element_index]
       end
