@@ -16,3 +16,5 @@ end
   new_array_outer << lowest_value
   row_index +=1
 end
+new_array_outer
+end
